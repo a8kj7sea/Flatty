@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a8kj7sea/Flatty/main/assets/banner.png" alt="Flatty Banner">
+  <img src="https://github.com/a8kj7sea/Flatty/blob/main/assets/banner.png" alt="Flatty Banner">
 </p>
 
 # Flatty
