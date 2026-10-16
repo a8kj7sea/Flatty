@@ -5,7 +5,7 @@
 
 # Flatty
 
-Flatty is a small, lightweight CLI utility written in C that collects a project's text files into one readable output file. It is designed to easily share project context with AI assistants (like ChatGPT or Claude) by generating a clean directory tree and concatenating file contents.
+Flatty is a small, lightweight CLI utility written in C that collects a project's text files into one readable output file. It is designed to easily share project context with AI assistants (like ChatGPT or Claude) to reduce tokens usage by generating a clean directory tree and concatenating file contents.
 
 ## Features
 - **Fast & Lightweight:** Built in C using POSIX APIs (`nftw`, `fnmatch`).
